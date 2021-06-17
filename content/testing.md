@@ -1,6 +1,5 @@
 +++
 date = 2021-06-16T04:00:00Z
-draft = true
 layout = "blocks"
 title = "Testing"
 [[page_sections]]
