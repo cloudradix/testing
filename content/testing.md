@@ -8,6 +8,10 @@ logo = ""
 navigation = []
 template = "navigation-header"
 [[page_sections]]
+block = "header-3"
+logo = "/uploads/2018/06/21/forestry-symbol.svg"
+template = "simple-header"
+[[page_sections]]
 block = "hero-1"
 heading = ""
 template = "text-only-hero-banner"
