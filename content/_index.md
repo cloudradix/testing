@@ -78,3 +78,4 @@ page_sections:
   content: Hello world!
 
 ---
+testimg
